@@ -3,6 +3,7 @@ Technical **E**xamples and **G**uides on some specific topics
 
 * [Globe-BD-enablement](https://github.com/tohweizhong/eg/tree/master/Globe-BD-enablement): notebooks on various machine learning tools
 * [etl-yaml](https://github.com/tohweizhong/eg/tree/master/etl-yaml): worked example on using YAML files for ETL in R
+* [gitignore](https://github.com/tohweizhong/eg/tree/master/gitignore): .gitignore templates for R and Python
 * [local-git-github](https://github.com/tohweizhong/eg/tree/master/local-git-github): short guide on linking local git repo to github
 * [ml-demo-prnd](https://github.com/tohweizhong/eg/tree/master/ml-demo-prnd): worked examples on using scikit-learn and keras on tensorflow to build predictive models
 * [nb-scripts-SparkR](https://github.com/tohweizhong/eg/tree/master/nb-scripts-SparkR): notebooks and scripts on using SparkR
