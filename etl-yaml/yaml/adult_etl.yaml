@@ -1,0 +1,27 @@
+# application name
+name: HRA ETL
+
+# arguments
+arguments:
+    - !argument
+        name: employee_filepath
+        value: "data/adult.txt"
+        
+    - !argument
+        name: system_filepath
+        value: null
+        
+    - !argument
+        name: output_filepath
+        value: "data/adult_out.txt"
+    
+# transformations    
+transformations:
+    - !transformation
+        name: drop_column
+        index: [2,4]
+
+    - !transformation      
+        name: take_log
+        index: [1]
+        

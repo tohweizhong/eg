@@ -1,0 +1,1 @@
+Jupyter examples of using scikit-learn and keras on tensorflow to build predictive models. Data used is found here: https://www.kaggle.com/mboaglio/simplifiedhuarus/home
