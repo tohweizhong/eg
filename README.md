@@ -1,5 +1,5 @@
 # eg
-Technical **E**xamples and **G**uides on some specific topics
+Small technical **E**xamples and **G**uides on some specific topics
 
 * [Globe-BD-enablement](https://github.com/tohweizhong/eg/tree/master/Globe-BD-enablement): notebooks on various machine learning tools
 * [etl-yaml](https://github.com/tohweizhong/eg/tree/master/etl-yaml): worked example on using YAML files for ETL in R
